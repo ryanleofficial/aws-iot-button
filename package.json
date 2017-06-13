@@ -1,0 +1,22 @@
+{
+  "name": "aws-button",
+  "version": "1.0.0",
+  "description": "A simple amazon button using switch,led and aws-iot lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hle92294/AWS-Button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hle92294/AWS-Button/issues"
+  },
+  "homepage": "https://github.com/hle92294/AWS-Button#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.14"
+  }
+}
